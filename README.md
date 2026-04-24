@@ -10,8 +10,8 @@ Este repositório serve como o diário de desenvolvimento oficial do projeto Fil
 
 | Nome                 | Cargo no projeto             | GitHub                                     |
 | -------------------- | ------------------------- | ------------------------------------------ |
-| Everton Alves   | Líder de Projeto | [@username](https://www.google.com/search?q=https://github.com/username)   |
-| Bruno Gabriel   | Secretario de Mesa   | [@username](https://www.google.com/search?q=https://github.com/username)   |
+| Everton Alves   | Líder de Projeto |@tomallves https://github.com/tomallves   |
+| Bruno Gabriel   | Secretario de Mesa   | @brunoqwe54-bit https://github.com/brunoqwe54-bit   |
 |  Ítallo Guimarães   | Projetista   | [@username](https://www.google.com/search?q=https://github.com/username)   |
 
 ## 🎯 Metas do Projeto
